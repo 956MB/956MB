@@ -27,4 +27,4 @@ db    db             dP'               88  db    db                             
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,swift,js,ts,react,tailwind,lua,neovim,vscode,git,github,figma,photoshop,illustrator)]([https://skillicons.dev](https://github.com/theol0403/))
+![icons](./icons-grey.svg)
