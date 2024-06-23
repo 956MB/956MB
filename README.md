@@ -17,7 +17,7 @@
 
 -   primarily `TypeScript` (`React`), and `SwiftUI`. TODO: `Go`, `Lua` and `Rust`.
 
--   writing [kata](https://github.com/956MB/Kata) in `Python`. learning `Neovim` plugin dev: [ncks.nvim](https://github.com/956MB/ncks.nvim)
+-   writing [kata](https://github.com/956MB/Kata) in `Python`. learning `Neovim` plugin dev: [neostuff](https://github.com/956MB/neostuff)
 
 -   frequently prototypes and messes around in **`Figma`, `Photoshop` and `Illustrator`**.
 
