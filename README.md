@@ -29,4 +29,4 @@
 
 ---
 
-![icons](./icons.svg)
+![icons](./icons-grey.svg)
