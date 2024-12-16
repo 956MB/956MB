@@ -11,22 +11,20 @@
                                                                            \///// ····························
 ```
 
-<h3 align="left">self-taught* creator of stuff online.</h3>
+### Languages I like <sub><sup>(too many)</sup></sub>
 
--   working on [TDB](https://www.tdb.fyi/) - a Tesla "database" app, a lot like MacTracker.
+`Lua` (Neovim), `C/C++` (Flipper), `Rust`, `JavaScript` / `TypeScript` (React), `Swift`
 
--   primarily `TypeScript` (`React`), and `SwiftUI`. TODO: `Go`, `Lua` and `Rust`.
+(shoutout to `Python` for challenges: [Kata](https://github.com/956MB/Kata) / [AoC](https://github.com/956MB/AoC))
 
--   writing [kata](https://github.com/956MB/Kata) in `Python`. learning `Neovim` plugin dev: [neostuff](https://github.com/956MB/neostuff)
+### IDEs <sub><sup>(again, too many. calm down and focus)</sup></sub>
 
--   prototypes with **`Figma`, `Photoshop` and `Illustrator`**.
+`Neovim` ([neostuff](https://github.com/956MB/neostuff), [👻](https://github.com/ghostty-org)), `VSCode` (`Cursor` looks interesting), `Xcode`
 
--   draws new languages and posts them on [Reddit](https://www.reddit.com/user/bauera5) sometimes.
+### Design Tools <sub><sup>(yes, I pay the Adobe tax)</sup></sub>
 
--   puts everything on [956mb.com](https://www.956mb.com/)
-
--   can be reached at **bays@956mb.com**
+`Photoshop` / `Illustrator` / `Lightroom`, `Figma` (may be switching to `Sketch`... :| )
 
 ---
 
-![icons](./icons.png)
+Discord: [@956MB](https://www.discordapp.com/users/111967411497947136) · Website: [956mb.com](https://www.956mb.com/) · Email: bays@956mb.com
