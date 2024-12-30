@@ -1,10 +1,10 @@
 [![Wow, that's interesting.](https://github.com/user-attachments/assets/fadd49b5-e1cd-4fbc-87bb-e131aa0a5abe)](https://github.com/956MB/banner)
 
-*<sup>Use this: [Github Neutral](https://github.com/956MB/boosts#github-neutral)</sup>*
+*<sup>Use this: [Github Neutral](https://github.com/956MB/boosts#github-neutral) · Look at this: [banner](https://github.com/956MB/banner)</sup>*
 
 ### Languages I like <sub><sup>(too many)</sup></sub>
 
-`Lua` (Neovim), `C/C++` (Flipper), `Rust`, `JavaScript` / `TypeScript` (React), `Swift`
+`Lua` (Neovim), `C/C++` ([Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)), `Rust`, `JavaScript` / `TypeScript` (React), `Swift`
 
 (shoutout to `Python` for challenges: [Kata](https://github.com/956MB/Kata) / [AoC](https://github.com/956MB/AoC))
 
