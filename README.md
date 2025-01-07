@@ -8,9 +8,11 @@
 
 (shoutout to `Python` for challenges: [Kata](https://github.com/956MB/Kata) / [AoC](https://github.com/956MB/AoC))
 
-### IDEs <sub><sup>(again, too many. calm down and focus)</sup></sub>
+### IDEs & Git <sub><sup>(again, too many. calm down and focus)</sup></sub>
 
 `Neovim` ([neostuff](https://github.com/956MB/neostuff), [👻](https://github.com/ghostty-org)), `VSCode` (`Cursor` looks interesting), `Xcode`
+
+Best GUI: [`Fork`](https://git-fork.com/) · Best TUI: [`lazygit`](https://github.com/jesseduffield/lazygit)
 
 ### Design Tools <sub><sup>(yes, I pay the Adobe tax)</sup></sub>
 
