@@ -1,6 +1,6 @@
 [![Wow, that's interesting.](https://github.com/user-attachments/assets/fadd49b5-e1cd-4fbc-87bb-e131aa0a5abe)](https://github.com/956MB/banner)
 
-*<sup>Use this: [Github Neutral](https://github.com/956MB/boosts#github-neutral) · Look at this: [banner](https://github.com/956MB/banner)</sup>*
+*<sup>Use this: [Github Neutral](https://github.com/956MB/boosts#github-neutral) · Look at this: [Wow, that's interesting.](https://github.com/956MB/banner)</sup>*
 
 ### Languages I like <sub><sup>(too many)</sup></sub>
 
