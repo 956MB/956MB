@@ -20,4 +20,4 @@ Best GUI: [`Fork`](https://git-fork.com/) · Best TUI: [`lazygit`](https://githu
 
 ---
 
-Discord: [@956MB](https://www.discordapp.com/users/111967411497947136) · Website: [956mb.com](https://www.956mb.com/) · Email: bays@956mb.com
+Discord: [@956MB](https://www.discordapp.com/users/111967411497947136) · Website: [956mb.com](https://www.956mb.com/) · Email: bays@956mb.com · Ko-fi: [956MB](https://ko-fi.com/956mb)
