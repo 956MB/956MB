@@ -36,9 +36,9 @@
                        │ UI/UX        │ Figma || Sketch (sometimes, may switch)         │
                        ├──────────────┼─────────────────────────────────────────────────┤
                        │ CONTACT      │ Website: 956mb.com                              │
-                       │ CHANNELS     │ Email: bays@956mb.com                           │
+                       │ CHANNELS     │ Email:   bays@956mb.com                         │
                        │              │ Discord: @956MB                                 │
-                       │              │ Ko-fi: 956MB                                    │
+                       │              │ Ko-fi:   956MB                                  │
                        ├──────────────┼─────────────────────────────────────────────────┤
                        │ PROBLEM      │ "too many things, calm down and focus"          │
                        └──────────────┴─────────────────────────────────────────────────┘
